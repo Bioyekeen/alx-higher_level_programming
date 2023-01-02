@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# Author - Auwal Linus
-
+# Author - Bamidele Adefolaju
 def add(a, b):
     """Return the addition of a and b."""
     return (a + b)
